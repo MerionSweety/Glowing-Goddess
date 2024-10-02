@@ -1,7 +1,4 @@
 # Glowing-Goddess
-Here's a sample README for a Figma design of a complete e-commerce website for women:
-
-
 Women's E-commerce Website Design
 
 Project Overview
