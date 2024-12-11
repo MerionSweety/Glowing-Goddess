@@ -23,7 +23,7 @@ Design Features
 
 Figma Design Files
 
--https://www.figma.com/proto/oUS3USbsKy8FUdGcpAiAjy/Glowing-Goddess?page-id=0%3A1&node-id=27-29&node-type=canvas&viewport=342%2C22%2C0.11&t=golBLo3OXil2iKMe-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=0%3A3
+-[https://www.figma.com/proto/oUS3USbsKy8FUdGcpAiAjy/Glowing-Goddess?page-id=0%3A1&node-id=27-29&node-type=canvas&viewport=342%2C22%2C0.11&t=golBLo3OXil2iKMe-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=0%3A3](https://www.figma.com/design/oUS3USbsKy8FUdGcpAiAjy/Glowing-Goddess?node-id=0-1&node-type=canvas&t=TZ1vSyF2MSFteXWk-0)
 
 Design Structure
 
